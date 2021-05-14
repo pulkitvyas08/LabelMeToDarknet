@@ -6,7 +6,7 @@ I saw a lot of code on the web which claimed to do this but for some reason none
 
 Well it worke-
 
-![alt text](https://memeshappen.com/media/created/SAY-IT-WORKS-IN-MY-MACHINE-ONE-MORE-TIME-meme-55254.jpg)
+![alt text](https://memegenerator.net/img/instances/67381149.jpg)
 
 Tried it with the [Yolo_Label] tool. Here's an example - 
 
